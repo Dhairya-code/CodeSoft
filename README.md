@@ -1,7 +1,3 @@
-Here's a **professional README.md** file for your **GitHub repository**:  
-
----
-
 # **CODSOFT Internship Projects** 🚀  
 
 ### **📌 Python Programming Internship | CODSOFT**  
@@ -73,8 +69,8 @@ python filename.py
 ---
 
 ## **📢 Connect With Me!**  
-🚀 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-🐙 **GitHub:** [Your GitHub Profile](https://github.com/your-github-username)  
+🚀 **LinkedIn:** www.linkedin.com/in/dhairyaverma6
+🐙 **GitHub:** https://github.com/Dhairya-code
 
 If you like this repository, **don’t forget to star ⭐ the repo!**  
 
