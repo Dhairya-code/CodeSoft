@@ -19,13 +19,13 @@ A GUI-based task manager built using **Tkinter** to help users efficiently organ
 A basic **GUI calculator** that performs arithmetic operations like addition, subtraction, multiplication, and division.  
 **Features:**  
 ✔ Simple and Interactive UI  
-✔ Handles basic mathematical calculations  
+✔ Handles basic mathematical calculations 
 
-### ✅ **3. Password Generator**  
-A secure **password generator** that creates strong, random passwords based on user-defined length and complexity.  
+### ✅ **3. Contact Book**  
+A simple **contact management system** to store and retrieve contact information.  
 **Features:**  
-✔ Generates random passwords with letters, numbers, and symbols  
-✔ Customizable password length  
+✔ Add, Search, and Delete Contacts  
+✔ User-friendly GUI for better interaction  
 
 ### ✅ **4. Rock-Paper-Scissors Game**  
 An interactive game where users can play against the computer, implemented using **random module** in Python.  
@@ -34,11 +34,6 @@ An interactive game where users can play against the computer, implemented using
 ✔ Game logic to determine the winner  
 ✔ Score tracking (optional)  
 
-### ✅ **5. Contact Book**  
-A simple **contact management system** to store and retrieve contact information.  
-**Features:**  
-✔ Add, Search, and Delete Contacts  
-✔ User-friendly GUI for better interaction  
 
 ---
 
